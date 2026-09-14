@@ -8,6 +8,8 @@ Steam screenshots, made easier to revisit.
 
 Free. No ads. No tracking. Portable. No account required.
 
+![SSSM Library](docs/images/library.png)
+
 ## Overview
 
 SSSM is a local-first Windows application for browsing Steam screenshots by game and date. This repository is currently for binary distribution and documentation. Source code is not published with this Public Beta.
@@ -27,6 +29,20 @@ SSSM is a local-first Windows application for browsing Steam screenshots by game
 - Updates through GitHub Releases
 
 Hidden games are always excluded from Memories, including when Show hidden games is enabled. Streamer Mode masks identifying text in SSSM; it does not hide image content or external Windows dialogs.
+
+## Screenshots
+
+### Rediscover your Steam screenshots
+
+Memories brings back screenshots from past games and years as a slideshow.
+
+![SSSM Memories](docs/images/memories.png)
+
+### Simple, portable settings
+
+Settings and app data stay with the Portable installation.
+
+<img src="docs/images/settings.png" alt="SSSM Settings" width="700">
 
 ## Supported languages
 
