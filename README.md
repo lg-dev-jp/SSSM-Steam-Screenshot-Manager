@@ -8,7 +8,7 @@ Free. No ads. No tracking. Portable. No account required.
 
 ## Overview
 
-SSSM is a local-first Windows application for browsing Steam screenshots by game and date. This repository is for binary distribution and documentation. Source code is not published with this Public Beta.
+SSSM is a local-first Windows application for browsing Steam screenshots by game and date. This repository is currently for binary distribution and documentation. Source code is not published with this Public Beta.
 
 ## Features
 
