@@ -8,8 +8,6 @@ Steam screenshots, made easier to revisit.
 
 Free. No ads. No tracking. Portable. No account required.
 
-![SSSM Library](docs/images/library.jpg)
-
 ## Overview
 
 SSSM is a local-first Windows application for browsing Steam screenshots by game and date. This repository is currently for binary distribution and documentation. Source code is not published with this Public Beta.
