@@ -76,7 +76,7 @@ Settings > Aboutの「更新を確認」からGitHub Releasesを確認できま�
 
 ## 配布について
 
-SSSMは無料で利用できます。ソースコードは現在公開していません。[公式GitHubリポジトリ](https://github.com/lg-dev-jp/SSSM-Steam-Screenshot-Manager)からのみダウンロードしてください。再配布は禁止します。改変・再パッケージされた非公式Buildはサポート対象外です。著作権はLGに帰属します。第三者コンポーネントの完全なライセンス表記はPortable ZIP内の`THIRD_PARTY_NOTICES.md`に含まれています。
+SSSMは無料で利用できます。ソースコードは現在公開していません。[公式GitHubリポジトリ](https://github.com/lg-dev-jp/SSSM-Steam-Screenshot-Manager)からのみダウンロードしてください。再配布は禁止します。改変・再パッケージされた非公式Buildはサポート対象外です。著作権はLGに帰属します。第三者コンポーネントの完全なライセンス表記はPortable ZIP内の`THIRD_PARTY_NOTICES.md`に同梱しています。
 
 ## 支援について
 
