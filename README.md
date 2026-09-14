@@ -4,6 +4,8 @@ Steam screenshots, made easier to revisit.
 
 [日本語](README_ja.md)
 
+### [⬇ Download SSSM Public Beta](https://github.com/lg-dev-jp/SSSM-Steam-Screenshot-Manager/releases)
+
 Free. No ads. No tracking. Portable. No account required.
 
 ## Overview
@@ -43,7 +45,7 @@ This is a Public Beta. Windows SmartScreen may show a first-run warning for the 
 
 1. Download the Portable ZIP from the [official GitHub Releases](https://github.com/lg-dev-jp/SSSM-Steam-Screenshot-Manager/releases).
 2. Extract the entire ZIP to a writable folder.
-3. Run `SSSM_Portable/SSSM.exe`.
+3. Open the `SSSM_Portable` folder and run `SSSM.exe` (`SSSM_Portable/SSSM.exe`).
 
 Keep `SSSM.exe`, `SSSMUpdater.exe`, `SSSM.exe.config` and `_internal` together in the Portable folder. Steam recordings and videos are not supported.
 
