@@ -4,6 +4,8 @@ Steamのスクリーンショットを、もっと手軽に見返そう。
 
 [English](README.md)
 
+### [⬇ SSSM Public Betaをダウンロード](https://github.com/lg-dev-jp/SSSM-Steam-Screenshot-Manager/releases)
+
 無料。広告なし。トラッキングなし。Portable。アカウント不要。
 
 ## 概要
@@ -43,7 +45,7 @@ English、日本語、简体中文、繁體中文、Русский、Español、
 
 1. [公式GitHub Releases](https://github.com/lg-dev-jp/SSSM-Steam-Screenshot-Manager/releases)からPortable ZIPをダウンロードします。
 2. ZIP全体を書き込み可能なフォルダーへ展開します。
-3. `SSSM_Portable/SSSM.exe`を起動します。
+3. `SSSM_Portable`フォルダーを開き、`SSSM.exe`（`SSSM_Portable/SSSM.exe`）を起動します。
 
 `SSSM.exe`、`SSSMUpdater.exe`、`SSSM.exe.config`、`_internal`は同じPortableフォルダー内のまま使用してください。Steam録画・動画には対応していません。
 
