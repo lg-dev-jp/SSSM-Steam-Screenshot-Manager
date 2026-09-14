@@ -8,6 +8,8 @@ Steamのスクリーンショットを、もっと手軽に見返そう。
 
 無料。広告なし。トラッキングなし。Portable。アカウント不要。
 
+![SSSM ライブラリ](docs/images/library.png)
+
 ## 概要
 
 Steamスクリーンショットをゲーム別・日付別に見返すためのWindowsアプリです。このPublic Betaの公開リポジトリは配布物とドキュメント用であり、ソースコードは公開していません。
@@ -27,6 +29,20 @@ Steamスクリーンショットをゲーム別・日付別に見返すための
 - GitHub Releasesによる更新
 
 「非表示ゲームを表示」がONでもMemoriesには非表示ゲームを出しません。Streamer ModeはSSSM内の個人情報表示をマスクしますが、画像の内容やWindowsの外部ダイアログは隠しません。
+
+## スクリーンショット
+
+### Steamの思い出をもう一度
+
+Memoriesでは、過去のゲームや年月のスクリーンショットをスライドショーで見返せます。
+
+![SSSM Memories](docs/images/memories.png)
+
+### シンプルなPortable設定
+
+設定やアプリデータはPortable環境内にまとめて保存されます。
+
+<img src="docs/images/settings.png" alt="SSSM 設定" width="700">
 
 ## 対応言語
 
